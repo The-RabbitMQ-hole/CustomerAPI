@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.edapoc.zlm</groupId>
-    <artifactId>CRMUserAPI</artifactId>
+    <artifactId>CustomerAPI</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>CRMUserAPI</name>
-    <description>CRMUserAPI</description>
+    <name>CustomerAPI</name>
+    <description>CustomerAPI</description>
     <properties>
         <java.version>17</java.version>
     </properties>

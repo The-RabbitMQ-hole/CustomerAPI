@@ -1,4 +1,4 @@
-package com.edapoc.zlm.crmuserapi.model;
+package com.edapoc.zlm.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
@@ -7,8 +7,8 @@ import lombok.Setter;
 @Getter
 @Setter
 @Entity
-@Table(name = "crm_user")
-public class User {
+@Table(name = "customer")
+public class Customer {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
